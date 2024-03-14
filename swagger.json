@@ -13,7 +13,7 @@
   "produces": ["application/json"],
   "servers": [ 
     {
-      "url": "https://determined-ruby-nematode.cyclic.app"
+      "url": "https://troubled-teal-fedora.cyclic.app"
     }
   ],
   "tags": [
